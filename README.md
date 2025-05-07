@@ -4,7 +4,7 @@
 📍 Haugerudveien 10, 0674, Oslo, Norway
 ✉️ [adnayan@hotmail.com](mailto:adnayan@hotmail.com)  
 
-[LinkedIn](https://linkedin.com/in/adnayan) • [GitHub](https://github.com/adnayan) • [Portfolio](https://adnayan.github.io/) • [Dev.to](https://dev.to/adnayan)
+[LinkedIn](https://linkedin.com/in/adnayan) • [GitHub](https://github.com/adnayan) • [Portfolio](https://adnayan.github.io/)
 
 
 ## Professional Summary
