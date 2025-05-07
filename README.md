@@ -20,4 +20,4 @@ I write code, solve problems, and learn new things every day.
 
 ## Education
 
-## Interests (optional, but helpful if relevant)
+## Interests
